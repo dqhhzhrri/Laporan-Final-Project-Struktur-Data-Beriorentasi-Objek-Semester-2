@@ -11,7 +11,7 @@
 * [NRP Anggota 3] - [Nama Anggota 3]
 
 ## 3. Deskripsi Masalah
-Pengisian Formulir Rencana Studi (FRS) adalah proses krusial setiap awal semester yang sangat bergantung pada aturan prasyarat kurikulum. Seiring berjalannya waktu dan pembaruan kurikulum, aturan prasyarat ini membentuk jaringan (Graph) yang semakin kompleks. Masalah fatal sering terjadi di balik layar sistem FRS ketika terdapat circular dependency atau konflik siklus yang tidak disadari (contoh: untuk menyetujui FRS mata kuliah A disyaratkan lulus B, namun mata kuliah B ternyata mensyaratkan A).
+Pengisian Formulir Rencana Studi (FRS) adalah proses krusial setiap awal semester yang sangat bergantung pada aturan prasyarat kurikulum. Seiring berjalannya waktu dan pembaruan kurikulum, aturan prasyarat ini membentuk jaringan (Graph) yang semakin kompleks. Masalah fatal sering terjadi di balik layar sistem FRS ketika terdapat circular dependency atau konflik siklus yang tidak disadari (contoh: untuk menyetujui FRS mata kuliah A disyaratkan lulus matakuliah B, sedangkan untuk mengambil matakuliah B harus siyaratkan lulus matakuliah A).
 
 Jika hal ini terjadi, sistem FRS akan mengalami deadlock dan mahasiswa tidak akan pernah bisa mengambil kelas tersebut. Project ini dirancang sebagai mesin validasi backend untuk sistem FRS. Menggunakan struktur `Graph` dan `algoritma Cycle Detection`, sistem ini bertugas mengawasi dan memastikan seluruh aturan prasyarat FRS selalu logis dan bebas konflik. Setelah divalidasi, sistem akan memanfaatkan Topological Sort untuk memberikan panduan (rekomendasi) pengisian FRS yang paling terstruktur, memastikan mahasiswa bisa mengambil mata kuliah secara berurutan tanpa hambatan hingga lulus.
 
