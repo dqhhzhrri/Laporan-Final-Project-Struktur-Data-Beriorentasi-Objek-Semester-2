@@ -1,0 +1,42 @@
+No|Kode Prasyarat|Kode Tujuan|Keterangan Relasi
+1|IT101|IT202|Pengenalan hardware
+2|IT102|IT201|Basic coding skill
+3|IT103|IT201|Logika algoritma
+4|IT104|IT202|Gerbang logika dasar
+5|IT102|IT204|Pemahaman syntax/query
+6|IT202|IT203|Interaksi level hardware
+7|IT201|IT203|Manajemen memori OS
+8|IT203|IT301|Socket & network OS
+9|IT105|IT302|Aspek legalitas data
+10|IT203|IT302|Keamanan level OS
+11|IT301|IT302|Port & Network security
+12|IT201|IT303|Struktur project
+13|IT204|IT303|Desain skema data
+14|IT102|IT304|Logic script
+15|IT204|IT304|Backend database
+16|IT301|IT305|Protokol API
+17|IT303|IT305|Arsitektur software
+18|IT301|IT401|Infrastruktur jaringan
+19|IT305|IT401|Distribusi layanan
+20|IT301|IT402|Transmisi data sensor
+21|IT202|IT402|Embedded system logic
+22|IT302|IT403|Vulnerability logic
+23|IT301|IT403|Network sniffing
+24|IT203|IT404|Server OS config
+25|IT301|IT404|Routing protocol
+26|IT302|IT405|Secure coding concept
+27|IT304|IT405|OWASP top 10 web
+28|IT305|IT501|Manajemen layanan TI
+29|IT105|IT501|Audit kepatuhan
+30|IT402|IT502|Edge computing
+31|IT403|IT502|Proteksi SCADA
+32|IT302|IT503|Kriptografi dasar
+33|IT203|IT503|File system recovery
+34|IT205|IT601|Analisis data riset
+35|IT303|IT601|Penulisan teknikal
+36|IT305|IT602|Implementasi enterprise
+37|IT105|IT602|Sikap profesional
+38|IT601|IT701|Penyusunan bab 1-3
+39|IT602|IT701|Problem identifikasi
+40|IT701|IT801|Seminar proposal
+41|IT401|IT801|Standar minimum skill TI

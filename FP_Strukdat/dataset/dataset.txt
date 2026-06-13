@@ -1,0 +1,28 @@
+Kode|Nama Mata Kuliah|SKS|Semester|Sifat|Bidang Keahlian|Musim Buka
+IT101|Pengantar Teknik Elektro & Informatika|2|1|Wajib|General|Keduanya
+IT102|Pemrograman Dasar|4|1|Wajib|General|Ganjil
+IT103|Matematika Diskrit|3|1|Wajib|General|Ganjil
+IT104|Sistem Digital|3|1|Wajib|General|Ganjil
+IT105|Hukum dan Etika Teknologi Informasi|2|1|Wajib|General|Ganjil
+IT201|Struktur Data dan Algoritma|4|2|Wajib|General|Genap
+IT202|Organisasi & Arsitektur Komputer|3|2|Wajib|General|Genap
+IT203|Sistem Operasi|3|2|Wajib|General|Genap
+IT204|Basis Data|4|2|Wajib|General|Genap
+IT205|Statistika dan Probabilitas|3|3|Wajib|General|Ganjil
+IT301|Jaringan Komputer|4|3|Wajib|Cloud/Jaringan|Ganjil
+IT302|Keamanan Informasi Dasar|3|3|Wajib|Cybersecurity|Ganjil
+IT303|Rekayasa Perangkat Lunak|3|3|Wajib|General|Ganjil
+IT304|Pemrograman Web|3|4|Wajib|Integrasi Sistem|Genap
+IT305|Integrasi Sistem|3|4|Wajib|Integrasi Sistem|Genap
+IT401|Komputasi Awan (Cloud Computing)|3|4|Wajib|Cloud/Jaringan|Genap
+IT402|Internet of Things (IoT)|3|5|Wajib|IoT|Ganjil
+IT403|Keamanan Siber & Uji Penetrasi|3|5|Wajib|Cybersecurity|Ganjil
+IT404|Administrasi Sistem dan Jaringan|3|5|Wajib|Cloud/Jaringan|Ganjil
+IT405|Keamanan Aplikasi|3|6|Pilihan|Cybersecurity|Genap
+IT501|Tata Kelola Teknologi Informasi|3|6|Pilihan|Integrasi Sistem|Genap
+IT502|Keamanan Cyber-Physical & Smart City|3|6|Pilihan|IoT/Cyber|Genap
+IT503|Forensik Digital|3|6|Pilihan|Cybersecurity|Genap
+IT601|Metodologi Penelitian|2|6|Wajib|General|Genap
+IT602|Kerja Praktik|3|7|Wajib|General|Keduanya
+IT701|Pra-Tugas Akhir (Proposal)|2|7|Wajib|General|Keduanya
+IT801|Tugas Akhir|6|8|Wajib|General|Keduanya
